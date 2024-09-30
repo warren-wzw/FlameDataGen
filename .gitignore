@@ -1,0 +1,7 @@
+./FlameGenDDPM/dataset/*
+./FlameGenDDPM/output/*
+./FlameGenWCGAN/dataset/*
+./FlameGenWCGAN/output/*
+./FlameGenRf/dataset/*
+./FlameGenRf/output/*
+
